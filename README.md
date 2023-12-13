@@ -1,4 +1,3 @@
-![image](https://github.com/thel6trial/ImgClassification/assets/101937836/e397c511-41bd-4df2-a98b-a4d4baf5a088)# ImgClassification
 
 1.	Dataset: Tập data đã được chia sẵn Train - Test Set. Mỗi folder bao gồm các file ảnh và một file CSV chứa tên ảnh, kích cỡ và Label của ảnh đó (bao gồm 2 label “Motor" và “Bycycle")
 2.	Preprocess Data:
